@@ -1,3 +1,5 @@
 body * {
   /*display:none!important;*/
 }
+
+ul.menu li a { color: #2d2d2d; }
